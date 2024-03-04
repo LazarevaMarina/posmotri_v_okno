@@ -243,10 +243,6 @@ ol {
   justify-content: flex-start;
 }
 
-/*.content__video-card:focus-visible {
-  background-color: aqua; 
-}*/
-
 .content__video-card-description-container {
   flex-grow: 1;
   overflow: hidden;
